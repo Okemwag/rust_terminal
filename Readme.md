@@ -19,3 +19,21 @@ The project is organized as follows:
    $ git clone https://github.com/Okemwag/rust_terminal.git
    $ cd rust_terminal
    ```
+
+## Interact with the Terminal:
+
+- The terminal will prompt you with `>`.
+- Enter commands and press Enter.
+- Type "exit" to exit the program.
+
+## Project Customization
+
+Feel free to customize and extend the project to add more features or functionality. You can add new modules, commands, or improve the existing code.
+
+## Contributing
+
+If you have any ideas or improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
