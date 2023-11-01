@@ -20,6 +20,11 @@ The project is organized as follows:
    $ cd rust_terminal
    ```
 
+2. **Run the Program:**
+   ```
+    $ cargo run
+   ```
+
 ## Interact with the Terminal:
 
 - The terminal will prompt you with `>`.
